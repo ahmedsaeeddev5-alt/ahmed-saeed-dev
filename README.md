@@ -125,7 +125,7 @@ Full system with RBAC, Identity, appointments, and admin dashboard
 
 ### 🔹 BookFlow – Library Management System
 Full-stack system (ASP.NET Core + Angular) with JWT & CQRS  
-🔗 (Add GitHub link here)
+🔗 https://github.com/ahmedsaeeddev5-alt/BookFlow-LibraryManagementSystem
 
 ---
 
