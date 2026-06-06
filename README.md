@@ -1,88 +1,84 @@
-# Hi there 👋, I'm Ahmed Saeed Reiyd
+# 👋 Hi, I'm Ahmed Saeed Reiyd
 
-## Full-Stack .NET Developer
-
-Passionate Full-Stack .NET Developer with hands-on experience building web applications using ASP.NET Core MVC, Web API, Entity Framework Core, Angular, and SQL Server.
-
-I enjoy creating scalable applications, learning new technologies, and solving real-world problems through software development.
+💻 Full-Stack .NET Developer | ASP.NET Core | Web API | Entity Framework Core | Angular | SQL Server
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Full-Stack .NET Developer
-- 🌱 Currently improving my ASP.NET Core & Angular skills
-- 🔍 Interested in Backend Development & Web APIs
-- 📍 Egypt
-- 📫 Reach me at: ahmed.saeed.dev5@gmail.com
+- 🎯 Passionate about building scalable backend systems using .NET
+- 🧠 Focused on Clean Architecture, CQRS, and best practices
+- 🔥 Experienced in developing RESTful APIs and full-stack applications
+- 📚 Always learning new technologies and improving problem-solving skills
+- 💼 Open to Junior / Entry-Level Full-Stack .NET Developer roles
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-### Backend
-- ASP.NET Core MVC
+### 💻 Backend
 - ASP.NET Core Web API
+- ASP.NET Core MVC
 - Entity Framework Core
 - LINQ
-- C#
-- SQL Server
+- Identity & JWT Authentication
+- MediatR (CQRS)
 
-### Frontend
+### 🎨 Frontend
 - Angular
-- HTML5
-- CSS3
+- HTML5 / CSS3
+- JavaScript / TypeScript
 - Bootstrap
-- JavaScript
-- TypeScript
 
-### Tools
-- Git
-- GitHub
-- Visual Studio
-- VS Code
+### 🗄️ Database
+- SQL Server
+- Database Design & Optimization
+
+### ⚙️ Tools & DevOps
+- Git & GitHub
+- Visual Studio / VS Code
 - Postman
+- Swagger
 
 ---
 
-## 📂 Featured Projects
+## 📌 Featured Projects
 
-### 🏥 Hospital Management System
-- ASP.NET Core MVC
-- Entity Framework Core
-- SQL Server
-- Authentication & Authorization
-- Repository Pattern
-- Unit of Work
+### 🔹 Task Management API
+Secure RESTful API with JWT Authentication, CQRS, MediatR, and file uploads  
+➡️ ASP.NET Core Web API | EF Core | SQL Server
 
-### 🏪 Store Management System
-- ASP.NET Core MVC
-- Entity Framework Core
-- SQL Server
-- CRUD Operations
-- Pagination & Search
+### 🔹 Inventory Management System
+Web-based system for managing products and categories with clean architecture  
+➡️ ASP.NET Core MVC | EF Core | Repository Pattern
 
-### 📚 BookStore API
-- ASP.NET Core Web API
-- JWT Authentication
-- Swagger
-- Entity Framework Core
+### 🔹 Store Management System
+CRUD system with search, pagination, and responsive UI  
+➡️ ASP.NET Core MVC | Bootstrap | SQL Server
 
 ---
 
 ## 📊 GitHub Stats
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed-saeed-dev&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-saeed-dev&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedsaeeddev5-alt&show_icons=true&theme=default)
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Contact Me
 
-- LinkedIn: www.linkedin.com/in/ahmed-saeed-reiyd
-- GitHub: https://github.com/ahmed-saeed-dev
+- 📧 Email: ahmed.saeed.dev5@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 🖥️ GitHub: https://github.com/ahmedsaeeddev5-alt  
 
 ---
 
-⭐ Always learning and building better software solutions.
+## ⭐ Goals
+
+- Improve backend system design skills
+- Master advanced .NET architecture patterns
+- Build strong portfolio for international roles
+- Contribute to real-world scalable systems
+
+---
+
+💡 *“Code is not just logic, it's engineering.”*
