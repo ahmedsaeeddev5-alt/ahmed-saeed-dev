@@ -117,7 +117,7 @@ CRUD system with search, pagination, and clean UI
 
 ### 🔹 Hospital Management System
 Role-based system with Identity, appointments, and admin dashboard  
-🔗 https://github.com/ahmedsaeeddev5-alt/HospitalManagementSystem-ASP.NET-Core-MVC  
+🔗 https://github.com/ahmedsaeeddev5-alt/HospitalManagementSystem
 
 ---
 
