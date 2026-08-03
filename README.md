@@ -145,25 +145,22 @@ Full-stack application using **ASP.NET Core Web API + Angular** with CQRS archit
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmed-saeed-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-saeed-dev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahmed-saeed-dev&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmed-saeed-dev&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+- 💻 **Repositories:** Explore my public projects and source code.
+- 🚀 **Focus:** ASP.NET Core MVC, Web API, Entity Framework Core, SQL Server.
+- 🌱 **Currently Learning:** Clean Architecture, Angular, Design Patterns.
+- 🔥 **Open Source:** Continuously building and improving real-world .NET applications.
+- 📈 **Goal:** Write clean, maintainable, and scalable code while expanding my Full Stack .NET expertise.
 
 ---
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmed-saeed-dev&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+## 🏆 Highlights
+
+- ✅ Developed multiple ASP.NET Core MVC applications.
+- ✅ Built RESTful APIs using ASP.NET Core Web API.
+- ✅ Implemented Authentication & Authorization with ASP.NET Identity and JWT.
+- ✅ Applied Repository Pattern and Unit of Work.
+- ✅ Worked with Entity Framework Core and SQL Server.
+- ✅ Version control with Git & GitHub.
 
 ## 🎯 Current Focus
 
