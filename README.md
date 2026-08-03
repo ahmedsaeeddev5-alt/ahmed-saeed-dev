@@ -146,8 +146,16 @@ Full-stack application using **ASP.NET Core Web API + Angular** with CQRS archit
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedsaeeddev5-alt&show_icons=true&theme=default" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsaeeddev5-alt&layout=compact" height="170"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmed-saeed-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-saeed-dev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ahmed-saeed-dev&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmed-saeed-dev&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
