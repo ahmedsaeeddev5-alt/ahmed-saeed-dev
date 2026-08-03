@@ -159,6 +159,11 @@ Full-stack application using **ASP.NET Core Web API + Angular** with CQRS archit
 </p>
 
 ---
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmed-saeed-dev&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ## 🎯 Current Focus
 
